@@ -7,5 +7,5 @@ Highlights:
 - LEDs to confirm Status etc.
 
 The sketches are done with Fusion360 as CAD System
-A lot of the mechanics and parts I chosed because I had those parts. 
+A lot of the mechanics and parts I had chosen because I had those parts. 
 The TimeDrawingRobo could be realized in many other ways
