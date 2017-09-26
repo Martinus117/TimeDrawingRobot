@@ -1,0 +1,9 @@
+c:\users\martin\documents\visual studio 2017\Projects\DrawingMachine\DrawingMachine\obj\Debug\DrawingMachine.csprojResolveAssemblyReference.cache
+c:\users\martin\documents\visual studio 2017\Projects\DrawingMachine\DrawingMachine\obj\Debug\DrawingMachine.Form1.resources
+c:\users\martin\documents\visual studio 2017\Projects\DrawingMachine\DrawingMachine\obj\Debug\DrawingMachine.Properties.Resources.resources
+c:\users\martin\documents\visual studio 2017\Projects\DrawingMachine\DrawingMachine\obj\Debug\DrawingMachine.csproj.GenerateResource.Cache
+c:\users\martin\documents\visual studio 2017\Projects\DrawingMachine\DrawingMachine\bin\Debug\DrawingMachine.exe.config
+c:\users\martin\documents\visual studio 2017\Projects\DrawingMachine\DrawingMachine\bin\Debug\DrawingMachine.exe
+c:\users\martin\documents\visual studio 2017\Projects\DrawingMachine\DrawingMachine\bin\Debug\DrawingMachine.pdb
+c:\users\martin\documents\visual studio 2017\Projects\DrawingMachine\DrawingMachine\obj\Debug\DrawingMachine.exe
+c:\users\martin\documents\visual studio 2017\Projects\DrawingMachine\DrawingMachine\obj\Debug\DrawingMachine.pdb
